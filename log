@@ -85,3 +85,11 @@ list.c:66:6: error: expected expression before 'Node'
       ^~~~
 Compilation failed
 89d0d0d
+vi., 28 de mar. de 2025 15:52:41: 
+In file included from test.c:5:0:
+list.c: In function 'pushFront':
+list.c:66:6: error: expected expression before 'Node'
+     *Node nodo = createNode();
+      ^~~~
+Compilation failed
+5a12a42
