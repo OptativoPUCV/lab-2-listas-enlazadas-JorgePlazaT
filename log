@@ -99,3 +99,8 @@ vi., 28 de mar. de 2025 15:52:47:
  tests:  9|3
 total_score: 35/70
 00abe1a
+vi., 28 de mar. de 2025 16:05:07: 
+ list.c | 5 +++++
+ 1 file changed, 5 insertions(+)
+ tests:  0|0
+94ba447
