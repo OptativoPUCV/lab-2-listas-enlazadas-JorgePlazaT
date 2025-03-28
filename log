@@ -93,3 +93,9 @@ list.c:66:6: error: expected expression before 'Node'
       ^~~~
 Compilation failed
 5a12a42
+vi., 28 de mar. de 2025 15:52:47: 
+ list.c | 1 -
+ 1 file changed, 1 deletion(-)
+ tests:  9|3
+total_score: 35/70
+00abe1a
