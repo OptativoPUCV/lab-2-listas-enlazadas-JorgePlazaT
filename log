@@ -104,3 +104,9 @@ vi., 28 de mar. de 2025 16:05:07:
  1 file changed, 5 insertions(+)
  tests:  0|0
 94ba447
+vi., 28 de mar. de 2025 16:08:21: 
+ list.c | 2 --
+ 1 file changed, 2 deletions(-)
+ tests:  9|3
+total_score: 35/70
+e9d7405
